@@ -4,7 +4,7 @@
 <ul>
   <li>Formulário de login simples com campos de usuário e senha</li>
   <li>Validação de usuário e senha</li>
-  <li>Botão de submit e botão de "Esqueceu a senha"</li>
+  <li>Botão de "Entrar" e botão de "Esqueci a senha"</li>
   <li>Estilo básico com CSS</li>
 </ul>
 <h2>Como usar</h2>
