@@ -1,5 +1,5 @@
 <h1>Projeto Login</h1>
-<p>Este projeto é um modelo básico de página de login com validação de usuário e senha. Ele contém um formulário simples com campos de usuário e senha, um botão de submit e um botão de "Esqueceu a senha".</p>
+<p>Este projeto é um modelo básico de página de login com validação de usuário e senha. Ele contém um formulário simples com campos de usuário e senha, um botão para Entrar e um botão de "Esqueceu a senha".</p>
 <h2>Recursos</h2>
 <ul>
   <li>Formulário de login simples com campos de usuário e senha</li>
